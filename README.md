@@ -19,6 +19,8 @@ The email will automatically send from the address of the spreadsheet editor: <b
 <img src="https://imgur.com/QoF99dn.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 <br />
 
+<a href="https://github.com/tphamer8/SLSAutomatedEmailSystem/blob/main/autoEmailScript.js">Link to code</a>
+
 
 <!--
 <h2>Program walk-through:</h2>

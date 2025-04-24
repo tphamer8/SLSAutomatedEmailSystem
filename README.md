@@ -1,13 +1,24 @@
 <h1>Automated Email System - Profile Update Instruction</h1>
 <!-- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo) -->
 <h2 style="color: darkblue;">Description</h2>
-This Google Script automatically emails students and staff instructions on how to update their newly created Stanford Law School web page profiles. It grabs information from the columns in the 'Directory Updates' Google sheet, formats the email for the new hire, and sends it when the checkbox for that specific row (New hire entry) is selected.
+This Google Script automatically emails new hires instructions on updating their Stanford Law School webpage profiles. It grabs information from the columns in the 'Directory Updates' Google sheet, formats the email for the new hire, and sends it when the checkbox for that specific row (New hire entry) is selected.
 <br />
 
 <h2 style="color: darkblue;">Languages and Utilities Used</h2>
 
 - <b>Google Sheets</b> 
 - <b>App Script (Modern JavaScript)</b>
+<h2>Program walk-through:</h2>
+
+<p align="center">
+Add the new hire entry to the sheet and click the checkbox: <br/>
+<img src="https://imgur.com/W0vQPRw.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+The email will automatically send from the address of the spreadsheet editor: <br/>
+<img src="https://imgur.com/QoF99dn.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<br />
+
 
 <!--
 <h2>Program walk-through:</h2>
